@@ -1,0 +1,18 @@
+.main-disp{
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+
+}
+.main-disp-sub{
+
+padding-right: 100px;
+
+}
+
+.cart_image{
+
+height: 100px;
+width: 70px;
+
+}
